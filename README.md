@@ -1,2 +1,2 @@
 # Linear Equations Solver
-This simple python script built using the pandas library uses Gaussian Elimination to solve any number of input matrices.
+Simple python script that solves linear equations from a 3x3 matrix using Gaussian elimination.
